@@ -222,5 +222,113 @@ layout: default
         </div>
       </td>
     </tr>
+    <tr>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+    <tr>
+      <td>
+        <div class="gallery-item">
+          <img src="assets/recon/gt/ses_1_cable_spool_fort_0_079.png" alt="图像1" class="gallery-image">
+          <audio controls>
+            <source src="assets/recon/gt/ses_1_cable_spool_fort_0_079.wav" type="audio/mp3">
+            Your browser does not support the audio element.
+          </audio>
+        </div>
+      </td>
+      <td>
+        <div class="gallery-item">
+          <img src="assets/recon/ours/ses_1_cable_spool_fort_0_079.png" alt="图像2" class="gallery-image">
+          <audio controls>
+            <source src="assets/recon/ours/ses_1_cable_spool_fort_0_079.wav" type="audio/mp3">
+            Your browser does not support the audio element.
+          </audio>
+        </div>
+      </td>
+      <td>
+        <div class="gallery-item">
+          <img src="assets/recon/mel/ses_1_cable_spool_fort_0_079.png" alt="图像1" class="gallery-image">
+          <audio controls>
+            <source src="assets/recon/mel/ses_1_cable_spool_fort_0_079.wav" type="audio/mp3">
+            Your browser does not support the audio element.
+          </audio>
+        </div>
+      </td>
+      <td>
+        <div class="gallery-item">
+          <img src="assets/recon/wav2vec2/ses_1_cable_spool_fort_0_079.png" alt="图像2" class="gallery-image">
+          <audio controls>
+            <source src="assets/recon/wav2vec2/ses_1_cable_spool_fort_0_079.wav" type="audio/mp3">
+            Your browser does not support the audio element.
+          </audio>
+        </div>
+      </td>
+      <td>
+        <div class="gallery-item">
+          <img src="assets/recon/encodec/ses_1_cable_spool_fort_0_079.png" alt="图像2" class="gallery-image">
+          <audio controls>
+            <source src="assets/recon/encodec/ses_1_cable_spool_fort_0_079.wav" type="audio/mp3">
+            Your browser does not support the audio element.
+          </audio>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+    <tr>
+      <td>
+        <div class="gallery-item">
+          <img src="assets/recon/gt/ses_1_cable_spool_fort_1_027.png" alt="图像1" class="gallery-image">
+          <audio controls>
+            <source src="assets/recon/gt/ses_1_cable_spool_fort_1_027.wav" type="audio/mp3">
+            Your browser does not support the audio element.
+          </audio>
+        </div>
+      </td>
+      <td>
+        <div class="gallery-item">
+          <img src="assets/recon/ours/ses_1_cable_spool_fort_1_027.png" alt="图像2" class="gallery-image">
+          <audio controls>
+            <source src="assets/recon/ours/ses_1_cable_spool_fort_1_027.wav" type="audio/mp3">
+            Your browser does not support the audio element.
+          </audio>
+        </div>
+      </td>
+      <td>
+        <div class="gallery-item">
+          <img src="assets/recon/mel/ses_1_cable_spool_fort_1_027.png" alt="图像1" class="gallery-image">
+          <audio controls>
+            <source src="assets/recon/mel/ses_1_cable_spool_fort_1_027.wav" type="audio/mp3">
+            Your browser does not support the audio element.
+          </audio>
+        </div>
+      </td>
+      <td>
+        <div class="gallery-item">
+          <img src="assets/recon/wav2vec2/ses_1_cable_spool_fort_1_027.png" alt="图像2" class="gallery-image">
+          <audio controls>
+            <source src="assets/recon/wav2vec2/ses_1_cable_spool_fort_1_027.wav" type="audio/mp3">
+            Your browser does not support the audio element.
+          </audio>
+        </div>
+      </td>
+      <td>
+        <div class="gallery-item">
+          <img src="assets/recon/encodec/ses_1_cable_spool_fort_1_027.png" alt="图像2" class="gallery-image">
+          <audio controls>
+            <source src="assets/recon/encodec/ses_1_cable_spool_fort_1_027.wav" type="audio/mp3">
+            Your browser does not support the audio element.
+          </audio>
+        </div>
+      </td>
+    </tr>
   </tbody>
 </table>
